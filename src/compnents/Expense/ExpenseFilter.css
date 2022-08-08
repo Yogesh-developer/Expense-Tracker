@@ -1,0 +1,19 @@
+.expense-filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit;
+}
+.label {
+  font-size: 1rem;
+  color: white;
+}
+.select-year select {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.4rem 2rem;
+  color: black;
+  border-radius: 7px;
+  font-weight: bold;
+}
